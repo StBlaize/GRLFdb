@@ -1,0 +1,4 @@
+/* set all canvases with class doughChart to 48% of the parent width. In this case, body */
+canvas.doughChart {
+  width: 48%;
+}
